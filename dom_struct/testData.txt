@@ -1,0 +1,671 @@
+Rob is a transcriptional dual regulator .
+These proteins activate a common set of about 50 target genes the marA/soxS/rob regulon , involved in antibiotic resistance superoxide resistance and tolerance to organic solvents and heavy metals .
+The activity of each protein is induced by different signals : the activity of Rob is increased with dipyridyl , bile salts , or decanoate and the activities of MarA and SoxS are increased by the aromatic weak acid salicylate and oxidative stress respectively .
+Many genes are regulated by all three proteins ; however , some genes are regulated by only one of them .
+In class I promoters , the activators bind upstream of the -35 box and are generally oriented in the backward direction , while in class II promoters the proteins overlap the -35 promoter hexamer and generally are oriented in the forward direction .
+The Mar-Sox-Rob box contains an invariant A at position 1 , two recognition elements , the RE1 at position 4-7 and RE2 at position 15-18 , and a 7-bp A/T-rich spacer separating these elements .
+In prerecruitment , the protein first binds to RNA polymerase in solution , and the binary complex then scans the DNA to find its binding sites .
+It carries two helix-turn-helix ( HTH ) motifs for DNA-binding .
+One of them , located in the N-terminal region , interacts with the element RE1 of the Mar-Sox-Rob box , and the HTH located in the C-terminal region interacts with RE2 .
+The crystal structures of Rob and MarA in complex with DNA and the solution structure of the DNA-binding domain of AraC have been solved .
+It regulates the activity of Rob by a sequestration-disposal mechanism , that is , it mediates the sequestration of Rob into intracellular foci .
+Sequestered Rob is inactive .
+rob appears to be transcribed abundantly at 5,000-10 ,000 molecules per cell throughout the growth cycle .
+Reviews : .
+DNA-binding by ArgP is prevented when the serine protease Do ( DegP ) hydrolyzes this transcriptional regulator .
+To activate transcription , ArgP recognizes AT-rich DNA-binding sites , but no consensus sequence has been identified .
+These amino acids , which bind to ArgP , do not seem to help the protein to form dimers or to bind to DNA , but they contribute to recruitment of the RNA polymerase and in forming the open complex .
+ArgP , which belongs to the LysR-family , has a helix-turn-helix motif located close to the N-terminus .
+Members of the LysR-family that show considerable homology to ArgP are AmpR from Citrobacter freundii , MetR from Salmonella enterica serotype Typhimurium , and NhaR from Pseudomonas putida .
+Tungsten can act as a substitute for Mo in ModE binding to the modABCD promoter in vitro , but the complex may be biologically inactive .
+The C-terminal domain is indispensable for molybdate binding and possibly is involved in the DNA-binding .
+IHF , Integration host factor , is a global regulatory protein that helps to maintain DNA architecture .
+It binds and bends DNA at specific sites .
+IHF is highly abundant in the cell .
+Its total intracellular concentration varies with growth rate and is higher in exponential phase , with 6,000 dimers per cell , than in stationary phase ( 3,000 dimers per cell ) .
+The structure of IHF bound to DNA has been solved .
+It binds tightly to DNA regions of about 40 bp carrying the 13-bp consensus sequence with A/T-rich elements upstream of the core consensus sequence .
+.
+IHF makes no contact with the major groove and only a few contacts with the minor groove .
+IHF is necessary for the induction of arginine - and lysine-dependent acid resistance ( AR ) via both transcriptional and translational controls of gene-expression , as IHF activates expression of a specific set of genes involved in survival at extremely acidic pH .
+FNR also regulates the transcription of many genes with other functions , such as acid resistance , chemotaxis , cell structure , and molecular biosynthesis , among others .
+Under anaerobiosis , FNR acquires a -LSB- 4Fe-4S -RSB- cluster that causes a conformational change and dimerization of the protein that causes it to become activated .
+The presence of O2 results in inactivation of FNR via oxidation of this -LSB- 4Fe-4S -RSB- cluster into the -LSB- 2Fe-2S -RSB- cluster and the disassembly of the dimer .
+Two motifs of FNR appear to be necessary for this degradation , one located in the N-terminal region and the other in the C-terminal region .
+The G and the first T of each FNR half-site appears to interact with FNR residues Glu-209 and Ser-212 .
+FNR belongs to the CRP/FNR-superfamily of transcription factors whose members are widely distributed in bacteria .
+A new variant of FNR , ( FNRD154A ) 2 , was used to identify FNR interactions on the ydfZ promoter region .
+This variant was designed with enhanced stability to O2 .
+In addition , CRP is involved in many other processes , such as osmoregulation , stringent-response , biofilm-formation , virulence , nitrogen assimilation , iron uptake , competence , multidrug-resistance to antibiotics , and expression of CyaR sRNA .
+Expression of crp is positively and negatively autoregulated ; repression of crp requires Fis .
+CRP was the first purified transcriptional regulator and the first for which the structure was solved .
+The C-terminal ?-helical DNA-binding domain carries a characteristic helix-turn-helix motif .
+A long ?-helix , termed the C-helix , forms an intersubunit coiled-coil .
+After binding of cAMP , the signal is propagated through a lengthening and reorientation of the C-helix to the DNA-binding domain , resulting in the liberation of the DNA-recognition helix .
+Mechanism of transcriptional regulation .
+Two regions of CRP , AR1 ( activation region 1 ) , located in the C-terminal domain , and AR2 , located in the N-terminal domain , are known to interact with RNA polymerase ( RNAP ) .
+Promoters that are activated by cAMP-CRP can be grouped into three classes , termed class I , class II , and class III promoters .
+Class II-dependent promoters require AR1 of the upstream subunit and AR2 of the downstream subunit of CRP .
+CRP represses transcription by promoter occlusion by exclusion of an activator protein , through the interaction with a repressor protein in an antiactivation mechanism or by hindering promoter clearance .
+Therefore , transcription of catabolic genes is switched on by cAMP-CRP .
+cAMP not only mediates carbon metabolism but also plays a physiological role to ensure that proteomic resources are spent on distinct metabolic pathways as needed in different nutrient environments .
+CRP was engineered to prove the enhanced strain osmotolerance phenotype based on several random mutagenesis studies .
+All variants showed much higher osmotolerance towards NaCl and others osmotic stressors , such as KCl , glucose , and sucrose , than the wild type .
+Using DNA microarray analysis , genes involved in colonic acid biosynthesis were identified as upregulated in the absence of salt stress , whereas carbohydrate-metabolism genes were differentially expressed under NaCl stress in an MT6 ( CRP mutant with the best osmotolerance towards NaCl ) mutant compared to the wild type .
+Mlc is autoregulated but it is also repressed and activated by CRP .
+Mlc binds to sites with a length of 23 bp .
+Its consensus sequence has been determined .
+At the post-transcriptional level , Mlc interacts with MtfA , which is involved in the regulation of the ptsG .
+Upon binding to Cad1 , CadC releases the bound H-NS molecules , dissolving the H-NS repressor complex and allowing RNA polymerase binding .
+Transcription of cadBA is finally activated once a molecule of CadC binds to Cad2 .
+It features a cytoplasmic DNA-binding N-terminal domain , a transmembrane domain , and a periplasmic C-terminal domain .
+Oligomerization of LysP is induced at low pH. LysP is a trigger transporter , i.e. , a protein that combines regulation and transport functions within the one polypeptide .
+Nac , Nitrogen assimilation control , regulates , without a coeffector , genes involved in nitrogen metabolism under nitrogen-limiting conditions .
+Using DNA microarray analyses , it was shown that Nac could affect the expression of 25 genes .
+In contrast with most LysR-family members , which are transcribed divergently from the gene they regulate , nac is distant on the genome from its regulated genes .
+H-NS plays an important role in the regulation of many genes in response to environmental changes and adaptation to stress ; therefore , it is capable of controlling its own synthesis .
+It has also been shown to be involved in survival during stationary phase , conferring to the bacteria a growth advantage during stationary phase ( GASP ) .
+H-NS is capable of inducing severe bends in the DNA , interacting with a large number of DNA regions that contain a planar curvature .
+It has been suggested that H-NS binds strongly to sites carrying a 10-bp AT-rich consensus sequence , which functions as a nucleation site for the formation of a repressive higher-order nucleoprotein complex .
+As expected for a gene involved in the modulation of many cellular-processes , the expression of hns is regulated by several systems and at different levels .
+At the transcription level , hns is autoregulated , and it is controlled by different transcription factors .
+Expression of stpA from a plasmid can complement an hns mutant phenotype and StpA is able to repress and activate a subset of H-NS-regulated genes , but the specific mechanisms remain to be determined .
+A dominant negative form of StpA can disrupt H-NS activity and vice versa , and H-NS can interact with StpA at two distinct domains to form heterodimers in vitro ; also , there is evidence that these proteins can form homodimers .
+H-NS is a small protein and it is an abundant nucleic acid protein in the genome , with about 20,000 copies per cell .
+H-NS sequesters the regulated genes and operons into these clusters and juxtaposed numerous DNA segments broadly distributed throughout the chromosome .
+Based on ChIP-chip and chip-seq analysis , it was proved that Rho-dependent termination abrogates the H-NS-DNA interactions , leading to transcriptional derepression of H-NS-silenced genes .
+The activity of each protein is induced by different signals : the activity of Rob is increased with dipyridyl , bile salts , or decanoate and the activities of MarA and SoxS are increased by the aromatic weak acid salicylate and oxidative stress respectively .
+SoxS was induced by tellurite ( TeO32 - ) in a DNA microarray analysis .
+Many genes are regulated by all three proteins ; however , some genes are regulated by only one of them .
+The differential regulation of these genes might be caused by the degeneracy of their DNA-binding sites .
+As a subset of the class I promoters , the Mar-Sox-Rob box is separated by ~ 30 bp from the -10 hexamer but can be functional in either orientation .
+There are more than 10,000 such binding sites per genome .
+polymerase ( RNAP ) and SoxS has been identified .
+The OxyR regulon includes genes involved in peroxide metabolism , redox balance , and peroxide protection by , for example , manganese uptake .
+OxyR acts as a repressor for its own synthesis in both the oxidized and reduced forms .
+OxyR functions as a reversible cellular redox switch .
+In the presence of 100 nM H2O2 , activation occurs by the formation of an intramolecular disulfide bond between Cys199 and Cys208 .
+Inactivation involves reduction of the disulfide bond by glutaredoxin 1 and glutathione .
+OxyR can bind as a pair of dimers bending to the DNA .
+The binding to DNA differs significantly for the oxidized and reduced forms .
+Reduced OxyR binds DNA at two pairs of major grooves separated by one helical turn , while oxidized OxyR occupies four consecutive major grooves .
+The Pho regulon includes operons and genes whose products are involved in phosphorus uptake and metabolism .
+Under phosphate limitation conditions the inner membrane sensor kinase PhoR autophosphorylates .
+In the absence of PhoR , cross-regulation of PhoB by CreC or acetyl phosphate results in phosphorylation of PhoB in response to carbon sources .
+The crystal structure of a subcomplex , which includes the ?4 domain of the ?70 factor fused with the RNAP ?-subunit flap tip helix , shows that the ?4 domain is recruited to the pho box promoters by PhoB and reorients the ?4 domain with respect to its binding site .
+Aspartic acid 196 ( D196 ) and arginine 219 ( R219 ) , located in the C-terminal DNA-binding domain minor groove , are necessary for the binding process for the PhoB transcriptional regulator .
+In unphosphorylated PhoB the output domains are constrained .
+On the other hand , LrhA also regulates negatively and partially the translation of rpoS through two mechanisms , one of which is RprA dependent and the other one is RprA independent .
+The activity of most members of this family is controlled by small molecules ; however , the effector of LrhA was not known until now .
+LrhA has high degree of homology to HexA from Erwinia carotovora ( 64 % identity ) and PecT from Erwinia chrysanthemi ( 61 % identity ) .
+Unlike the majority of LysR-type regulators , LrhA does not regulate the expression of adjacent genes to lrhA .
+The complex transcription factor FlhD2C2 is the principal regulator of bacterial flagellum-biogenesis and swarming migration .
+The flagellar regulator activates transcription of class II genes by overlapping the -35 box of the promoters .
+ArcA is a dual transcriptional regulator for Anoxic redox control .
+It acts primarily as a negative transcriptional regulator under anaerobic conditions .
+In addition , ArcA acts as a repressor for rpoS transcription .
+ArcA also activates a few operons encoding proteins involved in fermentative metabolism .
+Microarray analyses have identified a large number of genes affected by ArcA and have revealed that the Arc system and the FNR regulatory network overlap to a much greater extent than previously estimated .
+It has been suggested that ArcA may also be subject to cross-regulation by other , unknown sensor kinases .
+ArcA is a member of the OmpR/PhoB subfamily of response regulators and consists of an N-terminal receiver-domain and a C-terminal helix-turn-helix DNA-binding domain .
+The crystal structures of the receiver-domain of ArcA in the presence and absence of the phosphoryl analog BeF3 - have been solved .
+The proposed binding site consists of 15 bp with a direct spaced repeat .
+It has been suggested that multimerization , induced by phosphorylation , is a prerequisite for binding .
+As an activator , it appears to act as part of a nucleoprotein complex .
+Under glucose-abundant conditions , the double mutant of iclR arcA causes an increase in biomass yield ( 47 % ) and reduction of acetate ( 70 % ) and CO2 ( 16 % ) production .
+ArcA-P directly regulates the expression of 85 operons under anaerobic growth conditions , where 74 operons are repressed and 11 are activated .
+It is a unique example of a transcription factor exclusively regulating expression of type II fatty acid synthase enzymes .
+DNA-binding and repression require the binding of unsaturated acyl-ACP ( acyl-acyl carrier protein ) or acyl-CoA .
+The binding site for FabR overlaps with the binding site for FadR , the transcriptional activator for fabA and fabB in the promoter regions of both fabA and fabB .
+Both regulators can bind simultaneously to the promoter of fabB in the presence of unsaturated acyl-ACP .
+FabR belongs to the TetR family and has a helix-turn-helix motif at the N-terminus typical of repressors .
+Reviews : .
+The binding targets for NhaR are 17 nucleotides long .
+Lrp , Leucine-responsive regulatory protein , is a dual transcriptional regulator for at least 10 % of the genes in Escherichia coli .
+Binding of leucine can affect these activities in three different ways : leucine either potentiates , antagonizes , or has no discernible effect upon Lrp action .
+It is believed that Lrp senses the presence of rich nutrition based on the concentration of leucine and positively regulates genes that function during famine and negatively regulates genes that function during a feast .
+Lrp forms an open ring structure , in which the DNA is wrapped around the octamer in a nucleosome-like structure .
+The monomer chain contains two domains , an N-terminal helix-turn-helix motif and a C-terminal ??-sandwich-fold .
+Leucine has two effects upon binding to DNA in vitro : the affinity of Lrp is reduced but the cooperativity of binding to multiple sites is increased .
+The HyfR protein is autoregulated .
+The transcription factor FhlA , for Formate hydrogen lyase Activator , is positively autoregulated and controls the transcription of the operons involved in formate-metabolism to produce dihydrogen and carbon dioxide .
+When formate binds to FhlA , the protein becomes active as the binding affinity of FhlA increases , and it activates the transcription of ?54-dependent promoters .
+HycA may inactivate the function of the FhlA protein and prevent the binding of FhlA to target sequences , but the mechanism of the negative regulation by HycA is unknown .
+FhlA is subject to posttranscriptional regulation by the sRNA OxyS .
+This result also showed that the motif TGTCGnnnnTGACA is conserved in the sequences examined , and for this reason the binding sites for FhlA regulation have been relocated , reassigned , and corrected .
+The transcription factor PspF , for Phage shock protein F , is a bacterial enhancer-binding protein required for ?54-dependent transcription-activation .
+The integration host factor facilitates control of the psp regulon .
+The psp regulon is defined like the phage-shock protein system , which is involved in protecting the bacterium during infectious processes .
+The activity of PspF is inhibited by PspA , which is an accessory protein that binds directly to PspF to inhibit transcription of the psp regulon .
+This loop contains a group of three amino acids , called the YLW patch , that serve as a docking site for PspA and for ATP hydrolytic activity .
+On the other hand , PspB and PspC together act cooperatively to activate transcription of the psp regulon by blocking the interaction between PspA and PspF .
+The PspF AAA + domain interacts with ?54 in the presence of a compound that mimics the transition state of ATP-hydrolysis .
+Expression of pspF is negatively autoregulated .
+The stability of pspF mRNA is enhanced by a RIB element ( bacterial interspersed mosaic element ) in the 3 ' - flanking region of the pspF transcript .
+The PspF protein belongs to the enhancer-binding protein family of ?54-dependent activators ( bEBPs ) .
+The mechano-chemical coupling in bEBPs requires distinct activities of the AAA + subunits .
+The AAA + domain contains all conserved motifs of the AAA + family , including Walkers A and B for ATP-binding and hydrolysis , and the second region of homology ( SRH ) , which contains arginine fingers for intersubunit catalysis .
+As a member of the bEBP-family it carries two additional sequence insertions : the L1 loop containing the GAFTGA motif and the L2 loop ( also termed the pre-SIi loop ) .
+On one hand , L1 contacts the DNA nontemplate strand immediately upstream of the -24 promoter element , and on other hand , it contacts two PspF L1-binding sites , residues 18 to 25 and 33 to 39 , within ?54 RI .
+The GAFTGA motif is thought to communicate changes associated with ATP-hydrolysis , leading to conformational rearrangements in the RNA polymerase closed complex and thereby promoting-open-complex-formation .
+Based on an engineered single-chain polypeptide , it was shown that the PspF hexamer functions asymmetrically , i.e. , the individual subunits make different contributions to the activities of the oligomer , and only three subunits are necessary for engagement and remodeling of the target ( ?54 ) of the closed complex ( RPc formation ) .
+Reviews : .
+This regulator binds to a 14-bp-long palindromic sequence .
+The crystal structure of the trehalose repressor ( TreR ) in a complex with its inducer trehalose-6-phosphate has been published .
+MarA , SoxS , and Rob are paralogous transcriptional regulators that show 45 % amino acid identity between them the crystal structures for Rob and MarA confirm this similarity between them .
+Many genes are regulated by all three proteins ; however , some genes are regulated only by one of them .
+For MarA it was shown that the extent of activation at different promoters is only poorly correlated with the strength of MarA binding to the specific mar box .
+At the class II promoters of sodA and micF MarA can even decrease both RNA polymerase affinity and occupancy at the promoter .
+However , the majority of these sites are not functional because they are not in the proper orientation or distance relative to the promoter .
+These three proteins belong to the AraC/XylS-family of transcriptional regulators and as with other members of this family they have two helix-turn-helix ( HTH ) motifs for DNA-binding , one of them , located in the N-terminal region , interacts with the element RE1 of the mar box , and the HTH located in the C-terminal region interacts with the element RE2 .
+In the case of Rob , it appears that only one of two HTH motifs makes base-specific contact with DNA ; this was observed for the micF promoter .
+marA is the second gene of the marRAB operon , which encodes an autorepressor ( MarR ) and an autoactivator ( MarA ) .
+The transcription factor IscR , for Iron-sulfur cluster Regulator , is negatively autoregulated , and it contains an iron-sulfur cluster that could act as a sensor of iron-sulfur-cluster-assembly .
+IscR is a member of the Rrf2-family and carries a predicted N-terminal helix-turn-helix DNA-binding motif and three conserved cysteines in its C-terminus .
+IscR is a dimer in solution and it contains the -LSB- 2Fe-2S -RSB- 1 + cluster when purified under anaerobic conditions .
+This -LSB- 2Fe-2S -RSB- 1 + cluster has an unusual ( Cys ) 3 ( His ) 1 ligand scheme and is essential for cluster ligation .
+IscR requires the iron-sulfur cluster for its activity when bound to type 1 sites .
+PiscR contains two type 1 sites .
+About their interactions , Tramonti et al. showed the direct GadX binding at the promoters of the gadB ( two sites ) and gadA ( four sites ) operons also , Ma et al. showed that GadW forms a homodimer and that it also binds to the DNA of the gadA and gadB promoters .
+The transcription factor GadW , for Glutamic acid decarboxylase , is negatively autoregulated and controls the transcription of the genes involved in the principal acid resistance system , is glutamate dependent ( GAD ) , and is also referred to as the GAD system .
+GadW is highly homologous to GadX ( 42 % ) , and apparently both are capable of cross talk to regulate expression of the genes of this system .
+Tramonti et al. showed that GadX alone activates gadA and gadB promoters .
+Regarding these interactions , Tramonti et al. showed the direct GadX binding at promoters of the gadB ( two sites ) and gadA ( four sites ) operons also , Ma et al. showed that GadW forms a homodimer and that it also binds to the DNA of the gadA and gadB promoters .
+As a member of the AraC/XylS-family , this transcription factor is composed of two domains : the C-terminal domain ( 60 % homologous to the C-terminal of GadX ) , which contains two potential helix-turn-helix DNA-binding motifs in the DNA-binding region , and the amino-terminal domain ( 30 % homologous to the N-terminal of GadX ) , which is responsible for dimerization .
+RtcR , RNA terminal phosphate cyclase regulator , regulates the expression of genes involved in the ATP-dependent conversion of a 3 ' - phosphate at the end of RNA to 2 ' ,3 ' - cyclic phosphodiester .
+The rtcR gene is transcribed divergently from the genes it regulates .
+The structure of the N-terminal receiver-domain has been solved in the absence and presence of the phosphoryl analog beryllofluoride .
+PhoP is phosphorylated and thereby activated by its cognate sensor kinase PhoQ at a low extracellular concentration of magnesium .
+Regulation of the PhoQ/PhoP system is connected to the EvgS/EvgA system through the small inner membrane protein B1500 .
+The EvgS/EvgA system is involved in acid resistance and directly regulates expression of B1500 .
+B1500 interacts with PhoQ and increases the level of PhoP phosphorylation .
+PhoP-P binds to tandemly arranged binding sites known as PhoP boxes , consisting of two direct repeats separated by 5 nucleotides .
+NarL activates expression of 51 operons in response to nitrate , mostly genes needed for nitrate respiration .
+The system discriminates between nitrate and nitrite .
+Therefore , NarL mainly serves as a nitrate regulator and is only weakly phosphorylated in the presence of nitrite .
+The receiver-domain of NarL and NarP could function as a stabilizer of the carboxyl-terminal domain ( CTD ) ; it enhances DNA-binding and/or enables repression per se in vivo .
+The NarL consensus recognition sequence consists of a 7-bp element , termed the NarL heptamer .
+A subset of NarL-binding sites , in which two inverted repeats of the heptamer are separated by 2 bp ( termed 7-2-7 sites ) , also represents binding sites for NarP .
+The Nar sites are classified based on the location of the activator binding site ( ref ) .
+The response regulator NarP belongs to the LuxR/UhpA-family and is part of the two-component system NarQ-NarP .
+In the presence of nitrate both sensors phosphorylate NarL and NarP to the same extent .
+NarP consists of the N-terminal receiver-domain and a C-terminal DNA-binding domain .
+NarL and NarP work together in the regulation-of-gene-expression .
+However , for NarL the presence of one heptamer is sufficient for binding .
+The Nar sites are classified based on the location of the activator binding site ( ref ) .
+Similarly , activation of nir by FNR is suppressed by IHF , Fis , and H-NS .
+NarL or NarP counteracts repression by Fis and IHF , but not repression by H-NS .
+Expression of the napF operon is induced by NarP in the presence of FNR .
+NarL can displace NarP but is unable to activate transcription from this location .
+The DNA-binding consensus of PaaX consists of a palindromic sequence of 6 bp separated by about 27 bp .
+paaX is transcribed in an operon ( paaXY ) that is located in the genome downstream and in the same orientation as the paaABCDEFGHIJK operon , which is repressed by PaaX .
+Crystal structures of the transcriptional repressor PaaX have been determined .
+The transcriptional activator EvgA initiates a complex activation cascade for gene products involved in acid resistance and multidrug-resistance .
+B1500 is the connector protein for the PhoPQ two-component system , which is involved in acid resistance and Mg2 + homeostasis .
+EvgA belongs to the two-component system EvgS/EvgA which is highly homologous to the virulence-related BvgAS system of Bordetella pertussis .
+Like BvgA , EvgA presumably is phosphorylated in a phosphorelay reaction that involves phosphotransfer from the autophosphorylated transmitter domain to the receiver and Hpt domain of EvgS and finally to the receiver-domain of EvgA .
+An 18-bp inverted repeat motif was proposed as the EvgA DNA-binding site .
+When EmrR is overexpressed ( the emrR gene in multicopy ) , it is able to repress the marRAB operon , which encodes two transcriptional regulators .
+The EmrR dimer binds 2,4-dinitrophenol , carbonyl cyanide m-chlorophenylhydrazone ( CCCP ) , and carbonyl cyanide p - ( trifluoro-methoxy ) phenylhydrazone , predicted ligands of the EmrAB pump , with high affinity .
+The proteins of this family have a helix-turn-helix DNA-binding motif at the center while the ligand-binding domain is possibly located at the N-terminal domain .
+EmrR shows 28 % and 47 % identity and similarity , respectively , to the MarR protein .
+Overproduction of EmrR from a multicopy plasmid causes a mutator phenotype that includes an increase in frameshift and base substitution mutations .
+emrR is the first gene of the emrRAB operon whose transcription is induced by antimicrobial agents such as salicylic acid , CCCP , and nalidixic acid , among others ; induction requires the repressor of the operon EmrR .
+Reviews : .
+ArgR complexed with L-arginine represses the transcription of several genes involved in biosynthesis and transport of arginine , transport of histidine , and its own synthesis and activates genes for arginine-catabolism .
+An ArgR hexamer binds to a pair of these boxes that are generally separated by 3 bp .
+The repressor can bind to a single box but with a greatly reduced affinity .
+EnvY is a DNA-binding transcriptional regulator that participates in the control of several genes that encode cellular envelope-proteins at low temperatures and during stationary phase .
+The regulation of envY has not been described yet , but a region of dyad symmetry has been found upstream of this gene .
+EnvY : envelope polypeptide .
+In this way , FadR functions as a switch between fatty acid ?-oxidation and fatty-acid-biosynthesis .
+FadR appears to be a two-domain dimeric molecule in which the N-terminal domains bind to DNA , whereas the C-terminal domain binds the fatty acyl coenzyme A ( acyl-CoA ) .
+The binding of the acyl-CoA disrupts a buried network of charged and polar residues in the C-terminal domain , and the resulting conformational change is transmitted to the N-terminal domain via a domain-spanning ?-helix CoA in this way there is loss of DNA-binding since acyl-CoA regulates DNA-binding by FadR .
+The ? / ? N-terminal domain ( ?1-?1-?2-?3-?2-?3 ) has a winged-helix motif , and the ?-helical C-terminal domain ( ?6-?7-?8-?9-?10-?11-?12 ) resembles the sensor domain of the Tet repressor and PAS domain , in particular the photoactive yellow protein and finally the linker comprising two short ?-helices ( ?4-?5 ) .
+The binding of FadR to DNA is determined by the localization of the ?3 recognition helices that are paired together at the dimer-interface .
+A FadR-type regulator has been identified in Vibrio vulnificus Corynebacterium glutamicum Salmonella enterica , Vibrio cholerae , Pasteurella multocida , and Hemophilus influenzae .
+FadR is a homodimer that recognizes a palindromic sequence , 5 ' - TGGNNNNNCCA-3 ' .
+Overexpression of FadR improves fatty acid production by 5 - to 7.5-fold over that of strains in which it is not overexpressed .
+An increase of organic solvent tolerances ( OSTs ) was shown by using the fadR and marR double mutant of those two transcriptional regulators .
+The transcription factor SdiA , for Suppressor of the cell-division inhibitor , is possibly positively autoregulated and controls the transcription of the genes involved in cell-division .
+SdiA activates the expression of ydiV , which is involved in the interaction between two quorum-sensing systems .
+Overexpression of SdiA speeds up cell-division and causes apparently concomitant morphological changes ; in both exponential and stationary phases , cells appear rounder and shorter .
+Overexpression of SdiA also leads to resistance to the DNA-damaging agent mitomycin C as well as to other drugs while an sdiA null mutant strain was not hypersensitive to mitomycin C but was more sensitive to flouroquinolones .
+Microarray analysis : .
+The HU protein is a small DNA-binding protein that is considered a global regulatory protein and shares properties with histones , which play an important role in nucleoid organization and regulation .
+There is no sequence homology between the proteins HU-1 and HU-2 compared to any of the five histones of different eukaryotes studied .
+All these forms are in thermal equilibrium between two dimeric conformations ( N2 < -- > I2 ) that vary in their secondary structure content .
+The presence of HU depends on the phase of growth and it is distributed uniformly in the nucleoid .
+As another example , HU is required for the expression of ?S factors .
+Recently , Oberto et al. showed that HU also plays an important role in the regulation of many genes in response to environmental changes and adaptation to stress , including changes in osmolarity , acid stress , SOS induction , and anaerobiosis .
+The binding of this protein is destabilized when the tension of the double helix increases .
+IclR is composed of two domains : the amino-terminal domain , which contains the DNA-binding region , and the carboxy-terminal domain , which is responsible for inducer-binding .
+An iclR mutation affects the carbon flow in the metabolism .
+Review : .
+It belongs to the DnaA-family of transcriptional regulators .
+DnaA also binds to sites at the datA locus and this binding serves to limit excess DnaA activity , but other DnaA-binding sites are shown not to share this function .
+IdaB and the sliding clamp stimulate ATP-hydrolysis within the DnaA-ATP complex , which renders it inactive , and DNA-replication activity also contributes to this downregulation .
+DnaA also can inhibit the gene-expression of other genes such as guaA , dam , rpoH , ftsA , and mioC .
+Its function is to coordinate the biosynthesis of the amino sugars , D-glucosamine ( GlcN ) and N-acetylglucosamine ( GlcNAc ) with their catabolism .
+Its localization within the inducible nagBACD operon is unusual , since most transcriptional dual regulators are located near the loci they control .
+NagC is a member of the ROK ( repressor , ORFs , kinases ) ( NagC/XylR ) family of proteins , which contains at least two distinct classes of proteins , xylose repressor ( XylR ) and a series of glucose/fructose kinases .
+NagC is similar to Mlc transcriptional dual regulator .
+NorR , NO reduction and detoxification Regulator , is one of several regulatory proteins , such as Fur , SoxR , and OxyR , that are involved in the response to reactive nitrogen species .
+It contains three domains : an N-terminal GAF ( cGMP phosphodiesterase , adenylate cyclase , FhlA ) domain that is involved in signal sensing a central catalytic AAA + domain that is required for interacting with ?54 and for coupling ATP-hydrolysis to promoter DNA melting by RNA polymerase ; and a C-terminal domain that contains a helix-turn-helix DNA-binding motif .
+The GAF-domain contains a mononuclear nonheme iron center that binds NO reversibly .
+The iron oxidation state influences the activation of NorR .
+All three sites are required for the stimulation of the ATPase activity in vitro and activation of norV expression in vivo .
+The data further suggest that in contrast to other enhancer-binding proteins the DNA-binding per se induces a conformational change in NorR that promotes hexameric ring formation .
+CusR , Cu-sensing regulator , regulates genes related to the copper and silver efflux systems under anaerobic growth and under extreme copper stress in aerobic growth .
+Both cusR , encoding the response regulator , and cusS , encoding the sensor kinase , are organized in an operon that is located next to and in the opposite direction to an operon whose expression is activated by CusR .
+In the whole genome of Escherichia coli , only one copper box has been identified .
+This regulator also autoregulates its own synthesis .
+An mngR deletion mutant was shown to be more sensitive than wild-type specifically to heat shock , but not other stresses .
+This protein has a helix-turn-helix motif for DNA-binding in the C-terminal domain .
+Zur , zinc uptake regulator , regulates genes involved in the Zn2 + ABC transporter uptake system and genes involved in the expression of alternative ribosomal proteins .
+The switch between the two activities is due to conformational changes triggered by proline binding .
+In the absence of proline , PutA is cytoplasmic and functions as a transcriptional repressor of the put regulon .
+The N-terminal 47 residues with a ribbon-helix-helix fold contain the dimerization domain and the specific DNA-binding activity of PutA .
+The proline : ubiquinone oxidoreductase reaction proceeds via a rapid equilibrium ping-pong mechanism with proline and ubiquinone binding at two distinct sites .
+Both proline binding and FAD reduction contribute to the conformational change .
+Currently , no DNA-binding sites for this regulator have been reported in the literature .
+The transcriptional activator GadE , for Glutamic acid decarboxylase , is positively autoregulated and controls the transcription of genes involved in the maintenance of pH homeostasis , including the principal acid resistance system glutamate dependent ( GAD ) , also referred as the GAD system , and genes involved in multidrug efflux , among others .
+At least six regulators related to the acid resistance system , GadE , GadX , GadW , EvgA , YdeO , and MnmE , are involved in the direct regulation of gadE .
+The d-gluconate II system is capable of transport of l-idonate and also is regulated by IdnR ; the genes involved in this system encode another high-affinity gluconate-transporter .
+In the presence of l-idonate , IdnR binds to 16-nucleotide-long DNA-target sites in the idnK/idnDOTR intergenic region to coordinately activate transcription of idnKp and idnDp .
+IdnR exhibits a high similarity to GntR ( 53 % ) and belongs to the LacI/GalR family of transcriptional regulators .
+It is part of the idnDOTR operon , yet it can also be transcribed as an independent ( idnR ) transcription unit .
+This regulator is subject to catabolic repression in the presence of glucose and at low levels of cyclic AMP .
+UxuR is a protein that belongs to the GntR-family and participates as a regulator of several genes involved in carbon uptake .
+The UlaR transcriptional repressor belongs to the DeoR family , and accordingly , this transcriptional repressor family protein is composed of two domains : an N-terminal HTH domain ( residues 1-62 ) , which contains the DNA-binding region and the C-terminal sugar-phosphate-binding domain ( residues 69-251 ) , which is responsible for dimerization and inducer-binding .
+Asp206 and Lys209 are directly involved in binding L-ascorbate-6-P .
+TrpR , tryptophan ARRAY ( 0x15bd560 ) transcriptional repressor , negatively regulates expression of the trp regulon in response to intracellular levels of tryptophan .
+The TrpR regulon is involved in tryptophan-biosynthesis , transport , and regulation .
+This regulon partially overlaps with the TyrR regulon , since expression of several genes is regulated by TrpR and TyrR , the transcriptional regulator of the TyrR regulon .
+X-ray crystallography of the aporepressor the holorepressor and repressor bound to the operator oligonucleotide as well as NMR studies of the repressor and aporepressor in solution and bound to an operator oligonucleotide reveal that the small 25-kDa protein belongs to the helix-turn-helix ( HTH ) family .
+This regulator is sensitive to catabolite control and is induced when Escherichia coli is grown on maltodextrin in the absence of glucose .
+A novel regulatory role for the MalT regulon in glycolysis-associated utilization of carbon sources has been identified .
+MalT activity is negatively regulated by Aes and MalY through direct protein-protein interactions and competition with maltotriose for MalT binding .
+In the absence of this compound , the PdhR regulator binds to its target promoters .
+This repression is antagonized by its coeffector , pyruvate .
+In addition to the role described above , PdhR also controls the synthesis of two key enzymes ( Ndh and CyoA ) in the terminal electron transport system .
+The PdhR belongs to the GntR-family of transcriptional regulatory proteins , which share sequence similarities in their N-terminal DNA-binding domains .
+PdhR is negatively autoregulated .
+The pdhR consensus sequences has been determined to be 17bp and more recently as 15 bp .
+Hns-dependent flhDCregulator , HdfR , negatively regulates the expression of the flagellar master operon , flhDC and positively regulates the expression of the gltBD operon .
+SlyA ( for hemolytic protein in Salmonella ) was initially identified in Salmonella , although little is known about the regulator role of SlyA .
+It was demonstrated in EHEC that QseC directly senses and binds the bacterial hormone-like AI-3 signal and the host epineprhine/norepineprhine hormones , and it causes the autophosphorylation of QseC , which then transfers the phosphate group to QseB to activate it .
+Several of the genes directly regulated by YdeO are also directly regulated by GadX .
+YdeO belongs to the AraC/XylS-family of transcriptional regulators and shows more similarity to YhiW , AppY , AdiY , and GadX than the other AraC/XylS regulators .
+At this time , nothing is known of YdeO DNA-binding sites .
+In the absence of glucose , cellular cyclic AMP levels are high and cyclic AMP forms a dimeric complex with CRP to coregulate with AraC .
+AraC binding to the distal site ( -123.5 ) has been shown to down-regulate expression of araBp and araCp .
+Arabinose triggers AraC-dependent activation of araBp and relieves AraC-dependent repression of araCp .
+The N-terminal domain is responsible for dimerization and L-arabinose binding .
+RhaS alone is able to activate transcription of rha operons , but in the presence of CRP , transcription increases .
+Apparently , expression of operons involved in transport and degradation of l-rhamnose first requires expression of RhaR , which induces transcription of the rhaSR operon .
+MelR , melibiose regulator , is a transcription factor involved in disaccharide melibiose-degradation .
+It coregulates with CRP , a global transcriptional regulator .
+Synthesis of this operon is induced when Escherichia coli is grown on melibiose in the absence of glucose .
+MelR binding to the distal site ( -237.5 ) has been shown to down-regulate the expression of melRp and melAp .
+In the absence of melibiose , MelR is unable to activate melAp , but it regulates its own expression by repressing melRp and melAp simultaneously .
+The melAB operon is located upstream of melR and in the opposite direction .
+CytR , Cytidine Regulator , is a transcription factor required for transport and utilization of ribonucleosides and deoxyribonucleosides .
+The CytR protein can not act alone ; the synergistic DNA-binding is increased by direct interaction with CRP .
+On the other hand , in 1997 , Pedersen and Valentin-Hanses showed that CytR binds to octamer repeats , GTTGCATT in either the direct or inverted orientation and preferably separated by 2 or 3 bp .
+Gene induction occurs when the physiological inducer , cytidine , binds to the CytR regulator and when cellular cAMP levels are high .
+Between these two domains , CytR has a disordered sequence that provides the HTH motif with freedom of movement , which would allow this protein to interact with octameric half DNA-binding sites that could be arranged as inverted or direct repeats and with different lengths of spacer regions .
+Based on nuclear magnetic resonance ( NMR ) spectroscopy , the structure of the CytR DNA-binding domain ( DBD ) bound to the udp half-site and characterization of the free state were obtained .
+The cytR gene is autorepressed and is activated by CRP .
+It is negatively autoregulated , and it coordinately activates transcription of a small-RNA divergent gene .
+In the absence of glycine and the presence of GcvR , GcvA represses operons involved in the glycine-cleavage-system .
+Glycine binds directly to GcvR to disrupt or block the association of the GcvA/GcvR complex , whereas purines appear to promote the formation of the repression complex through an unknown mechanism .
+This transcriptional dual regulator , which belongs to the LysR-family has two domains : the amino-terminal domain , which appears to be involved in transcription-activation and in DNA-binding through its helix-turn-helix subdomain , and the carboxy-terminal domain , involved in GcvR interaction .
+AgaR features an N-terminal domain containing a helix-turn-helix motif and a C-terminal domain that includes the key residues involved in co-inducer-recognition and oligomerization .
+The genes regulated by NanR , N-acetyl-neuraminic acid regulator , are involved in N-acetyl-neuraminic acid ( or sialic acid ) transport and metabolism and in OFF/ON switching of type 1 fimbriation .
+N-acetylneuraminate ( Neu5Ac ) , which is the most common sialic acid , induces the catabolism of sialic acids operons by directly inactivating NanR converting the predominantly dimeric form of the repressor to an inactive monomer .
+However , this protein can be displaced from this region by N-acetyl-neuraminic acid .
+The Nan box shows affinity to a set of conserved operators with two or three exact , or nearly exact , repeats of the hexanucleotide sequence GGTATA .
+Methylation in these sites is prevented by NanR binding .
+Kalivoda et .
+The transcription factor Ada , for Adaptive response to alkylation damage , is positively autoregulated and controls the transcription of the genes involved in the process of reparation of alkylated DNA also called the adaptive response O6-methylguanine and O4-methylthymine are the major mutagenic lesions resulting from exposure of DNA to simple alkylating agents such as N-methyl-N ' - nitro-N-nitrosoguanidine ( MNNG ) , N-methyl-N-nitrosourea ( MNU ) and , to a lesser degree , methane methanesulfonate ( MMS ) .
+The O6-methylguanine and O4-methylthymine alkylation products constitute potentially mutagenic lesions due to their tendency to mispair with thymine and with guanine , respectively , forming transition mutations .
+The Ada protein also transfers methyl groups to a second cysteine residue ( Cys-69 ) in the N-terminal domain , from alkylphosphotriesters in DNA .
+The Ada protein also transfers methyl groups to a second cysteine residue ( Cys-69 ) in the N-terminal domain , from alkylphosphotriesters in DNA .
+The specific inducer for BirA is biotinyl-5 ' - adenylate ( bio-5 ' - AMP ) .
+This repression is controlled by the rate of the competing protein : protein interaction .
+The rate of heterodimerization with apoBCCP controls the holoBirA monomer supply , and the equilibrium constant of homodimerization tunes the bioO occupancy and , consequently , transcription initiation at the biotin operon .
+The BirA monomer contains three domains : an amino-terminal domain that contains a helix-turn-helix DNA-binding motif ; the central-domain , which is important for DNA-binding and catalysis and contains the binding site for bio-5 ' - AMP ; and the C-terminal domain , the funtion of which has yet to be determinded .
+Disordered loop structures on the protein surface appear to be involved in binding to biotin , bio-5 ' - AMP , and/or DNA and in protein dimerization .
+On the other hand , GalS is highly homologous in its amino acid sequence to GalR ( 55 % identical and 88 % similar ) ; apparently both act together and are capable of cross-talking to regulate expression of the gal regulon .
+The Galactose repressor , GalR , is a DNA-binding transcription factor that represses transcription of the operons involved in transport and catabolism of D-galactose .
+For this reason these regulators bind the same operators , in the cis regulatory regions , with different affinities .
+In the presence of inductor , GalR undergoes a conformational change that reduces its affinity for the operator .
+GalR belongs to the GalR/LacI-family of transcriptional regulators .
+Accordingly , this transcriptional repressor family protein is composed of two domains : a conserved N-terminal domain which contains the DNA-binding region , and the carboxy-terminal domain , which is involved in effector-binding and dimerization .
+The sn-Glycerol-3-phosphate repressor , GlpR , acts as the repressor of the glycerol-3-phosphate regulon , which is organized in different operons .
+summarizes these sequence differences .
+The Lactose inhibitor , LacI , is a DNA-binding transcription factor that represses transcription of the operon involved in transport and catabolism of lactose .
+In the absence of allolactose , LacI represses the lac operon by preventing open promoter complex formation for transcription .
+In this repression system , LacI binds to two operators , and formation of the repressor loop is critical .
+LacI slides 45 + / - 10 bp on chromosomal DNA , and this can be obstructed by other DNA-bound proteins near the operator .
+LacI slides over its natural lacO1 operator several times before binding ARRAY ( 0x15c0af0 ) , suggesting a trade-off between a rapid search on nonspecific sequences and fast binding at the specific sequence .
+LexA represses the transcription of several genes involved in the cellular response to DNA damage or inhibition-of-DNA-replication as well as its own synthesis .
+To repress transcription , LexA blocks the access of RNA polymerase to target promoters .
+LexA dimer recognizes and binds to an imperfect inverted repeat DNA sequence called the LexA box or SOS box .
+The crystal structure of the LexA-DNA complex has been determined .
+The DNA-binding domains of the LexA dimer interact with the DNA in the classical fashion of a winged-helix-turn-helix ( HTH ) motif , and they bind to the same minor groove of the DNA .
+The SOS system is induced by methylglyoxal ( MG ) , based on ChIP-chip analysis with DNA-RNAP occupancy , and this involves LexA-regulated genes such as recAX , lexA-dinF , and dinB .
+Apparently , expression of the operons involved in transport and degradation of l-rhamnose first requires expression of RhaR , which induces transcription of the rhaSR operon .
+Transcription of the rhaSR operon is induced when E. coli is grown on l-rhamnose in the absence of glucose .
+The binding targets for RhaR consist of 17-nucleotide-long sequences that possess conserved motifs ; each monomer binds to one of these conserved sequences located on different faces of the DNA .
+It is part of the CP4-57 cryptic prophage that is similar to bacteriophage P4 .
+alpA was first identified as a multicopy suppressor of lon mutants that leads to the expression of an alternative Lon protease activity named Alp .
+The excision inactivates the gene upstream of intA , ssrA , encoding tmRNA .
+CP4-57 : cryptic P4-like prophage at min 57 .
+AlpA : alternative Lon-protease .
+Under these same conditions , the expression of the appY gene is induced .
+The genes regulated by AppY have promoters that are recognized by both ?70 and ?38 ; AppY activates their transcription when any of these ? factors is bound to the RNA polymerase .
+When AppY is overproduced , the expression of 30 proteins is induced or repressed in a growth phase-dependent fashion .
+AppY , which belongs to the AraC/XylS-family , has a C-terminal DNA-binding domain that shows a helix-turn-helix motif .
+It has been postulated that AsnC is very ascient ; it appears that it was present before the divergence of archea and bacteria .
+The crystal structure shows an octamer with l-asparagine bound in a cleft at the interface between dimers ; however , the octamer is formed in an l-asparagine-independent manner .
+The replication origin , oriC , is located between the mioC and gidA genes , and the asnC gene is immediately upstream of mioC in the genome .
+Review : .
+On the other hand , phenotypical analysis with an AtoS mutant showed reduced motility , sodium chloride sensitivity , and increased susceptibility to membrane-acting agents and an aminoglycoside antibiotic .
+AtoSC is involved in the flagellar regulon , controlling the motility and chemotaxis responses .
+By an unknown mechanism , histamine and extracellular Ca2 + appear to be signals that modulate AtoS/AtoC-dependent cPHB production .
+Autophosphorylation of AtoS appears to be stimulated by acetoacetate or one of its metabolic products .
+It has also been suggested that the D55 residue could transfer the phosphate group to the H73 residue of AtoC .
+AtoC belongs to the NtrC-NifA family of ?54-RNA polymerase transcriptional activators and , as for a number of members of this family , AtoC contains three domains : the N-terminal receiver-domain to be phosphorylated , the central-domain involved in ATP-hydrolysis and interaction-with-?54 , and the DNA-binding C-terminal domain that contains a helix-turn-helix motif .
+This protein recognizes and binds a sequence of 20 bp in DNA .
+However , a BLAST analysis showed that although there are several regions with significant homology to the 20-bp AtoC-binding site , they are not arranged as palindromes .
+It is negatively autoregulated and coordinately represses transcription of the choline transporter and the operon related to the synthesis of glycine betaine .
+These divergent operons are expressed only under aerobic conditions and are induced by osmotic stress .
+The position of the repressor gene within the operon is unusual too , as regulatory genes tend to be positioned at the end of operons and this gene is located at the beginning of the operon .
+CspE inhibits the expression of cspA in vitro by increasing pause recognition by RNA polymerase at the cspA cold box .
+CspA belongs to the cold shock family of proteins and was shown to be homologous to eukaryotic Y-box transcription factors .
+The transcription factors of this family recognize a CCAAT sequence in the regulatory region of the genes regulated .
+cspA was also shown to be induced by addition of chloramphenicol and was induced even in the absence of protein-synthesis .
+They also identified a putative FNR binding site upstream of the gene , but the sequence was not shown .
+CynR belongs to the family of LysR-type transcriptional regulators ( LTTRs ) .
+Members of this family have a conserved structure with an N-terminal DNA-binding helix-turn-helix motif and a C-terminal cofactor-binding domain .
+The promoter regions for the divergently transcribed cynR and cyn operons overlap .
+In the presence of d-serine , the D-serine deaminase protein , DsdC , activates the transcription of genes involved in d-serine detoxification , and in the absence of the metabolite it is autorepressed .
+DsbC belongs to the LysR-family of bacterial transcriptional regulators and contains a possible helix-turn-helix motif for DNA-binding in the C-terminal domain .
+This protein shows 50 % similarity to the GcvA protein .
+The dsbC gene is located next to an operon ( dsdXA ) regulated by DsbC , but facing in the opposite direction .
+A DNA-binding site recognized by the dimer of DsbC has not been identified .
+EbgR belongs to the GalR-LacI family of transcriptional regulators .
+There is strong evidence that the ebg and lac operons share a common origin in evolution .
+Reviews : .
+Catabolite repressor activator , Cra , which was initially named Fructose repressor , FruR , is a dual transcriptional regulator that plays a pleiotropic role to modulate the direction of carbon flow through the different metabolic pathways of energy metabolism , but independently of the CRP regulator .
+Cra carries out a glycolytic flux-dependent regulation .
+end of the operon itself .
+As a member of the DeoR family , FucR features an N-terminal domain containing a putative helix-turn-helix motif .
+Currently , no DNA-binding sites for this regulator have been reported in the literature .
+As a member of the DeoR family , GatR features an N-terminal domain containing a putative helix-turn-helix motif .
+When this protein activates genes involved in glucitol-transport and utilization , it appears to bind to their regulatory regions without a coeffector .
+In addition , Yamada et al. suggested that these regulators have contrary effects , but in the presence of glucitol , GutR interacts with this carbohydrate to dissociate from DNA , causing increments of GutM in sufficient amounts to increase transcription of the gut operon .
+This regulator belongs to the DeoR family of repressors .
+GutR is composed of two domains : the amino-terminal domain , which contains the DNA-binding region , and the carboxy-terminal domain , which is responsible for dimerization and inducer-binding .
+LeuO is one of the transcription factors that counteracts H-NS-mediated repression of specific loci .
+An in vivo genetic selection ( SELEX ) and phenotype microarray analysis revealed several multidrug-resistance genes as targets for LeuO , including acrEF , ygcLKJIH-ygbTF , and mdtNOP ( sdsRQP ) .
+Stragier et al. have proposed that this compound binds directly with LysR .
+MtlR in the presence of just mannitol produces derepression of the mtlADR operon , but when glucose is present in the medium , this operon is a target of catabolite repression ( through CRP ) , independent of MtlR .
+Figger et al. proposed that an inverted repeat sequence of 24 bp is the possible MtlR-binding site .
+NadR is often found to be mutated in long-term evolution experiments ; interestingly , mutations are usually only found in the N - and C-terminal domains .
+Review : .
+When D-ribose binds to RbsR , the protein becomes inactive because the binding affinity of RbsR decreases .
+In the presence of the inducer D-ribose , RbsR activates the salvage pathway of purine-nucleotide-synthesis .
+Although little is known about the mechanism of regulation of the RbsR transcription factor , Mauzy et al. in 1992 demonstrated that this regulator acts as a repressor by binding to cis-acting elements , which have a conserved inverted repeat sequence and overlap the rbsD promoter .
+Each SoxR polypeptide contains a -LSB- 2Fe-2S -RSB- cluster that senses the oxidants in the cell .
+Both Fe-SoxR and apo-SoxR bind to the promoter region , but only Fe-SoxR contributes to the activation in its oxidized form .
+It has long been known that SoxR senses superoxide ; however , Gu and Imlay ( 2011 ) concluded that SoxR actually senses redox-cycling agents .
+But Liochev and Fridovich reported that the superoxide is indeed sensed by SoxR .
+The metal core structural and redox states of the metal active sites of SoxR in the presence and absence of O2 and/or NO have been determined .
+During anaerobiosis , TdcA participates in controlling genes ( tdc operon ) involved in transport and metabolism of threonine and serine .
+tdcA is the first gene in the tdcABCDEFG operon , which is autoactivated by TdcA .
+It appears that due to the fact that the tdcR gene shows poor codon usage and a poor Shine-Dalgarno sequence , it is weakly expressed .
+The first gene of the operon codes for TdcA , a transcriptional regulator that probably interacts with TdcR to activate the transcription of the operon and these two proteins appear to function together with CRP and IHF , proteins that bend the DNA , for this activation .
+Since csgD is induced during the mid-exponential phase of growth and the CsgD-dependent activation of csg genes is detected in the stationary phase , it has been suggested that CsgD is posttranscriptionally activated in the stationary phase .
+MalI shows high similarity to GalR ( 28 % ) , CytR ( 21 % ) , and LacI ( 24 % ) , and homology to a fragment of 30 amino acids from MalT .
+The gene encoding this protein is homologous to transcriptional repressors of the LacI/GalR family .
+However , the specific residues in the helix for DNA-binding are not conserved .
+The transcription factor Cbl , for cysB like , is a regulator involved in the expression of genes required for aliphatic sulfonate utilization and homeostatic response to sulfate starvation .
+XapR , xanthosine phosphorylase regulator , activates transcription of genes involved in xanthosine metabolism when xanthosine is present .
+Deoxyinosine can also induce XapR activity , although not to the same extent as xanthosine .
+XapR , which belongs to the LysR-family , has a DNA-binding site in the N-terminal domain and a signal-recognition site separated in two regions in the amino acid sequence .
+35 boxes of xylABp and xylFGHRp .
+This regulator has a dual function and is positively and negatively autoregulated .
+In this repression system , LldR binds to two operators and probably leads to repressor DNA looping .
+ZraR recognizes a DNA sequence of two inverted repeats of 17 bp separated by 12 bp .
+ZraR also belongs to the group of ?54-dependent transcriptional regulators .
+A regulatory role related to the activity of the enzyme hydrogenase 3 has been assigned to ZraR ( previously called HydG ) but it was demonstrated that this regulation was nonspecific .
+Transcription of zraR is induced by zinc stress and high levels of c-di-GMP .
+PrpR belongs to the NtrC family of activators , which interact directly with the RpoN RNA polymerase .
+PrpR is a ?54-dependent activator and belongs to the AAA + superfamily of mechano-chemical ATPases .
+This regulator binds to a palindromic sequence ( 5 ' - GTTTCAT-10n-ATGAAAC-3 ' ) that overlaps prpRp .
+The 2-Keto-3-deoxygluconate repressor , KdgR , is a DNA-binding transcription factor that represses transcription of the operons involved in transport and catabolism of 2-keto-3-deoxy gluconate ( KDG ) .
+AllS belongs to the LysR-family of transcriptional regulators , and like other members of this family , it has a putative helix-turn-helix motif in the N-terminal domain .
+Using particular analysis and high-throughput analysis ( microarrays ) , it was established that LsrR regulates expression of many genes involved in several processes , such as autoinducer 2 uptake and processing , biofilm architecture , host-invasion , stress responses , and foreign DNA , among others .
+LrsR pertains to the quorum-sensing system , which involves autoinducer-based bacterial cell-to-cell-communication .
+On the other hand , it was suggested that dihydroxyacaetone phosphate inhibits binding of DPD to LsrR .
+The structure of the LsrR protein has been analyzed in crystallography and mutational analysis studies , where it was observed that it contains two main domains , the DNA-binding domain located in the N-terminus and a ligand-binding domain around the C-terminus .
+The structure of LsrR as a tetramer was determined via exclusion chromatography and cross-linking assays .
+The lsrRK operon is transcribed divergently of the lsrACDBFG-tam operon , and both operons are activated by CRP and repressed by LsrR .
+An lsrR deletion mutant was shown to be more sensitive than wild-type specifically to heat shock , but not other stresses .
+Both genes , baeR , encoding the response regulator , and baeS , encoding the sensor kinase , are located at the end of the operon ( mdtABCD-baeSR ) regulated by BaeR .
+BaeR is the primary regulator of the ethanol stress response .
+These new inducers are natural substrates of the MdtABC efflux pump , and they lead to much stronger induction of the BaeST response in an mdtA efflux pump mutant , while indole does not .
+As a consequence of this sensing , BaeS is autophosphorylated , followed by the transfer of the phosphate group to BaeR which is converted to an active form that appears to recognize and bind a DNA sequence with a direct repeat symmetry .
+Dephosphorylated DhaL ( DhaL : : ADP ) is an antagonist of DhaK and also is able to form complexes with the sensing-domain of DhaR .
+The crystal structure has been determined .
+Mutational analyses have been used to identify the critical role of some amino acids for AcrR activity , such as Glu-67 and Arg-45 .
+This cavity has an inner surface with negative potential and the ligands are positively charged , thus favoring the binding between them .
+The acrR gene , whose expression is increased under general stress conditions , is autoregulated and divergently transcribed from the acrAB operon .
+This site is bound by two dimers of AcrR .
+Review : .
+The C-terminal 83 amino acids form the tetrameric core , which carries the high-affinity nickel-binding site and resembles the ACT fold of the ACT ( aspartokinase , chorismate mutase , TyrA ) family .
+The two RHH DNA-binding domains flank the tetrameric core of the protein .
+The coordination of the nickel ion binding to the high-affinity site depends on binding to DNA .
+Saturation of the high-affinity nickel-binding sites at nickel concentrations in the picomolar range leads to substantial binding to the nik operator and a low level of constitutive repression , while nickel-binding to the low-affinity sites at higher nickel concentrations ( in the nanomolar range ) leads to a large increase in operator binding and strong repression .
+Molecular simulations on the EcNikR structure suggest that binding of NikR to DNA is more favorable when NikR contains K + and the allosterically activated DNA-binding conformation of NikR is stabilized by K + .
+The AscG , Arbutin-salicin-cellibiose , transcriptional regulator represses the expression of a cryptic operon ( ascFB ) whose genes are involved in transport and utilization of the ?-glucoside sugars arbutin , salicin , and cellibiose .
+This operon is activated only when the repressor is inactivated through the interruption of the gene by an insertion sequence .
+AscG is a GalR-type transcription factor and has a helix-turn-helix motif .
+AscG recognizes and binds the consensus palindromic sequence TGAAACCGGTTTCA .
+Degradation of HipB is mainly dependent on the Lon-protease , and is dependent on an unstructured 16 amino acid domain at the C-terminus of the protein .
+A bioinformatic analysis revealed that there are a total of 39 HipB-binding palindromic sequences , TATCCN ( x ) GGATA , in the promoter regions of 33 genes in the Escherichia coli genome , where N represents any nucleotide and x is the number of nucleotides , from 1 to 30 .
+HipB : high persistence .
+This regulator is regulated by catabolic repression , and highly expressed in the presence of succinate .
+This protein consists of two domains , an amino-terminal domain ( NTD ) involved in co-inducer-recognition and dimerization and a carboxy-terminal domain ( CTD ) that contains a potential helix-turn-helix DNA-binding motif .
+Activation by FeaR requires the NTD , which could function as an inhibitor of the CTD in the absence of the coactivator .
+The FeaR-binding site is a direct repeat of two 16-bp elements with the core consensus sequence TGKCA-N8-MAA ( where K is G or T and M is C or A ) for each 16-bp sequence .
+The transcription factor DicA , Division cell , is a temperature-sensitive repressor that controls the transcription of genes involved in the cell-division process and activation of its own expression .
+DicA is homologous in structure and function to RovA ( Yersinia ) and SlyA ( Salmonella ) , both of which are activators for pathogenicity-related genes .
+On the other hand , structural , sequence , and physical interaction analyses show that BolA could be a reductase that interacts with glutaredoxin .
+On the other hand , bolA mRNA stability during glucose starvation is enhanced in the presence of RNase III function .
+In ArsR the inducer-binding site contains three cysteine residues that bind arsenite and antimonite specifically and with high affinity .
+ArsR when overexpressed has the capacity to remove arsenic species from contaminated water .
+SugaR transport-related Regulator SgrR is negatively autoregulated and coordinately activates transcription of the divergent operon .
+This regulator coordinates the response to glucose-phosphate stress .
+As the intracellular accumulation of glucose-6-phosphate correlates with SgrR induction , it has been proposed as its inducer .
+The RcnR , resistance to cobalt and nickel regulator protein is an addition to the set of transcriptional metallo-regulator proteins of E. coli ( some of the main ones are Fur , CueR , CusR , MntR , Zur , ZntR , and NikR ) that regulate the transcriptional expression of a recently described efflux protein , RcnA to maintain nickel and cobalt homeostasis .
+It has been proved by Koch and colleagues that the rcnR gene is the target of Fur regulation in regard to iron levels ( when iron increases , rcnR expression increases about 2.3-fold .
+RcnR acts as a transcriptional repressor for its divergent rcnA gene and a weak repressor for its own expression .
+The TACT inverted repeats are critical for specific binding .
+The G-tracts provide a structural component to facilitate binding of RcnR to DNA , because they endow A-form DNA characteristics to the RcnR operators .
+In addition , RcnR interacts nonspecifically with the approximately 50 bp flanking the core binding site , resulting in DNA wrapping and the introduction of a single negative supercoil into plasmid DNA .
+RcnA likely competes with NikR for nickel ions at low concentrations , and in such a way RcnA downregulates nikABCDE expression and nickel uptake ( for this , rcnA must be expressed at a basal level prior to induction , as observed with higher nickel levels ) .
+Also , RcnA is important in the modulation of the hydrogenase assembly pathway through the NikR regulation that limits nickel delivery to the process , repressing nikABCDE transporter expression when intracellular nickel levels are high .
+Reviews : .
+A 14-bp DNA sequence that contains the TACA direct repeat has been identified as the RstA DNA-binding site and is called the RstA box .
+This regulator also participates in the regulation of transcription of many other genes involved in different cellular functions , including the following : flagellum chemotaxis methionine-biosynthesis acid and oxidative stresses metal ion stress resistance to cobalt and nickel the tricarboxylic-acid-cycle glycolysis and gluconeogenesis respiration porins purine-metabolism 2,3-dihydroxybenzoate biosynthesis and phage DNA packaging .
+FUR also is considered a metalloregulatory protein and can sense different divalent metal ions , such as Zn ( II ) , Cu ( II ) , Cd ( II ) , Co ( II ) , and Mn ( II ) .
+Transcriptomic and statistical modeling analyses with Zn concentration shifts showed a transient change in the activity of the iron regulator Fur and of the oxidative stress regulator SoxS ; these findings suggest a competitive binding mechanism for the physiology of Zn and Fe uptake .
+This protein belongs to the TetR family , whose members have an N-terminal DNA-binding domain that contains a helix-turn-helix motif and a C-terminal domain for dimerization and ligand binding .
+However , no role in transcriptional regulation of this binding has been observed .
+ZntR , zinc-transport regulator , regulates a gene involved in the Zn ( II ) , Cd ( II ) , and Pb ( II ) transport systems .
+An inverted repeat sequence of 22 bp , located in the spacer between the -10 and the -35 boxes , has been identified as the ZntR dimer-binding site .
+Each monomer of ZntR has three domains : a dimerization helix , a signal-recognition site and a DNA-binding motif ( helix-turn-helix ) .
+ZntR belongs to the MerR-family , and although most members of this family are transcribed divergently from the genes they regulate , zntR is distant on the genome from its regulated gene .
+The ClpXP protease appears to need an adaptor to carry out proteolysis of ZntR .
+CitB/DpiA is a dual transcriptional regulator involved in anaerobic citrate catabolism .
+CitA ( DpiB ) binds citrate with its periplasmic domain and senses reduced conditions using a single Cys residue in vitro .
+The cytoplasmic domain is involved in autophosphorylation and phosphotransfer to CitB ( DpiA ) .
+A 20-bp consensus sequence motif has been proposed for RcsB-BglJ based on analysis with the MEME suite .
+RcsB-BglJ acts antagonistically as well as synergistically with additional transcription factors , such as HNS , CRP , and LeuO .
+This protein is negatively autoregulated and it is involved in the % Beta ; - glucoside utilization systems and the homologous recombination and repair of bleomycin damage .
+Currently , no inducer for this regulator has been reported in the literature .
+New genes may be identified by high-throughput analysis .
+It has an approximately fivefold-greater affinity for DNA than H-NS and has a preference for curved DNA .
+This regulator binds curved DNA , in the promoter region , with AT-rich motifs , and StpA binds to sites that have poorly related sequences and it does not have a consensus sequence for the DNA-binding .
+Expression of stpA from a plasmid can complement an hns mutant phenotype and StpA is able to repress and activate a subset of H-NS-regulated genes , but their specific mechanisms remain to be determined .
+StpA consists of two structured domains which are separated by a protease-sensitive linker .
+The members of this family have three domains : an N-terminal domain with a helix-turn-helix motif , which binds to DNA ; a central-domain for dimerization and metal-ion-binding ; and a C-terminal alpha-spectrin SH3-like domain .
+The protein dimerizes via its C-terminal domain .
+The N-terminal and C-terminal domains are connected by a long ?-helical linker .
+All residues involved in manganese binding in BsMntR ar conserved in MntR .
+MntR does not seem to be autoregulated .
+The metal-binding domain contains an unusual metal receptor site in which the bound metal is inaccessible to the solvent .
+The formation of permanganate-sensitive transcription complexes requires copper ions .
+DcuR is the response regulator in the two-component regulatory system DcuR/DcuS and is a member of the CitAB subfamily of His protein kinases .
+This protein contains an N-terminal receiver-domain that includes the aspartate residue ( Asp-56 ) for phosphorylation and a C-terminal domain that contains a helix-turn-helix motif for DNA-binding .
+CreB Carbon source responsive response regulator , is a DNA-binding-transcriptional-dual-regulator and belongs to the CreBC two-component system ( TCS ) which controls genes involved in acetate and ribose metabolism , in the maltose regulon in the pentose-phosphate-pathway and genes which repair DNA damage associated with the replication fork .
+CreBC regulates the expression of cre regulon genes in response to a switch from complex to minimal medium .
+It is active when cells are fermenting glycolytic carbon sources .
+CreB binds in vitro to a TTCACnnnnnnTTCAC sequence called the cre tag direct repeat , which stimulates the cre regulon .
+CreBC ( TCS ) is homologous ( 60-70 % ) with BrlAB of Aeromonas spp .
+The antimicrobial peptide lactoferricin B , binds to CreB and inhibits its phosphorylation in vitro .
+EnvR , also known as AcrS , represses the transcription of genes encoding a drug efflux pump that has a role in resistance to antibiotics .
+All of these proteins , including EnvR , have a helix-turn-helix motif close to the N-terminus .
+envR is adjacent and divergent in the genome to acrEF , an operon that encodes another drug efflux pump ; however , it is not regulated or is only lightly affected by EnvR .
+N-ethylmaleimide reductase repressor , represses the nemA gene , which is involved in reductive degradation of N-ethylmaleimide ( NEM ) and other toxic nitrous compounds , and it also represses its own expression .
+NemR belongs to the TetR family of HTH-type DNA-binding transcription factors .
+The NemRA system plays an important role in Escherichia coli survival in the presence of the toxic compound N-ethylmaleimide ( NEM ) , which is the inducer for depression of the nemRA operon .
+NemR is a transcriptional repressor that is sensitive to HOCl and related reactive chlorine species ( RCS ) , and its gene products contribute to increased bleach resistance by detoxifying reactive electrophiles produced during this process .
+The NemR regulator is controlled by alkylation of one or more of its Cys residues .
+The critical Cys residue ( s ) involved in NemR activity control remains to be identified .
+NemR is also a redox-regulated transcriptional repressor , since it uses the oxidation status of HOCl-sensitive cysteine residues to respond to bleach and related reactive chlorine species .
+YefM can bind alone with low affinity to the yefM-yoeB operator , but together with YoeB it has an enhanced DNA-binding affinity compared to free YefM .
+Nevertheless , YefM originally was described as a native unstructured protein later it was reevaluated as experimental , and modeling data have demonstrated that the protein is at least partially folded and dimeric .
+YefM does not possess a canonical DNA-binding motif , but instead a pair of basic residues , R10 and R31 , conserved in many YefM homologs are absolutely necessary for DNA-binding by the YefM-YoeB complex .
+The signal that triggers this signaling-pathway is glucose 6-phosphate external .
+Then , phosphorylated UhpB transfers the phosphate group to UhpA in Asp-54 to activate it .
+UhpA shows 30 % identity with DctD .
+These two regulatory proteins appear to stimulate the DNA-binding of each other to the uhpT promoter .
+The weak site is essential for activation , and its occupancy is dependent on the occupancy of the strong site .
+The uhpT , uhpC , uhpB , and uhpA genes are located in tandem in the same locus in the genome , and while uhpT is transcribed alone it has been demonstrated that uhpB and uhpA are transcribed in the same operon and there is the possibility that uhpC is transcribed with them .
+MurNAc-6-P is the effector of MurR .
+MurR functions as a repressor of the MurNAc pathway .
+RelB is the antitoxin of the RelE-RelB toxin-antitoxin system .
+A Tn10 insertion in ydfV restores colony-forming ability to an rne mutant .
+The suppression phenotype is reversed by overexpression of relB , but not ydfV .
+When cells are starved of amino acids , Lon-protease degrades RelB ; RelB degradation derepresses transcription of relBE ; RelE accumulates in excess compared with its RelB antitoxin ; and this free RelE causes translation inhibition .
+Mutations in the relB locus were initially identified by a delayed relaxed phenotype .
+MetJ as a homodimer recognizes and binds to an 8-bp DNA sequence called the met-box , which varies around a perfect palindromic consensus sequence .
+The binding of AdoMet to MetJ creates an unusually long-range electrostatic interaction with the phosphodiester backbone of the DNA , raising the DNA affinity by at least 100-fold .
+The genes regulated by MetJ contain in their regulatory region two to five continuous met-boxes in which MetJ dimers interact with each other .
+KdpE is a transcriptional regulator involved in the regulation of genes involved in a high-affinity potassium ( K + ) uptake system .
+The genes of this system and their regulators are widely distributed among the gram-negative and gram-positive bacteria and archaea .
+KdpE belongs to the two-component system KdpD/KdpE .
+The operon containing both genes , kdpE , encoding the response regulator , and kdpD , encoding the sensor kinase , is located next to and in the same direction as an operon ( kdpFABC ) regulated by KdpE .
+It has been suggested that sometimes the genes of the two operons are transcribed in only one transcript .
+Under K + - limiting conditions or under osmotic stress imposed by a salt , autophosphorylation of KdpD at His-673 is stimulated .
+hipB foms an operon with hipA , and the products of this operon are classified as a toxin ( HipA ) - antitoxin ( HipB ) system .
+HipB is an antitoxin that counteracts and neutralizes the HipA toxin , and HipA is toxic in the absence of its binding partner HipB .
+HipB contains a helix-turn-helix motif near the N-terminus and is a Cro-like DNA-binding protein .
+BluR is a MerR-like regulator that contains an N-terminal helix-turn-helix DNA-binding region and a ligand-binding region in the C-terminal domain .
+BluR is a paralogue of MlrA , and it represses the transcription of the ycgZ-ymgA-ariR-ymgC operon .
+The bluRF-ycgZ-ymgA-ariR region is conserved in various enteric bacteria .
+BluR binds to the promoter region of ycgZ .
+It binds-as-a-dimer-to-its-operator site via its winged helix domains .
+McbA belongs to the YhcN family of periplasmic proteins and is induced by the quorum-sensing signal autoinducer 2 ( AI-2 ) .
+McbR : MqsR-controlled colanic acid and biofilm Regulator .
+The ttd pathway for L-tartate fermentation and the dcu pathway for general C4-dicarboxylate-metabolism interact at the regulatory level .
+This motif suggests a role for Dan in resistance to a metal , as with Dps against iron .
+Both MqsR and MqsA are dimeric proteins .
+Reviews : .
+YqhC also regulates dkgA expression .
+The identity of the intracellular signal for YqhC is yet to be discovered .
+Closely related bacteria contain yqhC , yqhD , and dkgA orthologs in the same arrangement as in Escherichia coli LY180 .
+The sensor domain responds to changes in extracellular osmolarity .
+EnvZ and OmpR comprise a signal-transduction-system where the signal generated by the periplasmic receptor affects through a protein-protein interaction the EnvZ cytoplasmic component , which is transmitted via phosphorylation from autophosphorylating histidine kinase to the response regulator OmpR .
+Its activity is silenced by the receiver-domain , and phosphorylation relieves inhibition .
+A model of regulation that explains the differential expression of porin genes has been described by Mattison et al. ( 2002 ) and by Yoshida et al. ( 2006 ) .
+MlrA : MerR-like regulator A .
+In rich media , the transcription of glnALG is activated from the glnAp1 promoter by ?70 and under limiting ammonium is activated from the glnAp2 promoter by ?54 .
+After that , NtrB transfers its phosphate group to NtrC to activate this transcriptional regulator .
+In the presence of N , the GlnB protein ( also called PII ) or the GlnK protein binds to NtrB to activate its phosphatase activity .
+The NtrB-GlnB/GlnK complex dephosphorylates to NtrC or inhibits NtrC autophosphorylation , inactivating it .
+When the NtrC is phosphorylated , the dimer , which is the inactive state of the protein , is disrupted and the ATPase domain is free to repack in the front-to-back orientation to form a hexamer or octamer ring .
+NtrC : nitrogen regulation C .
+The amino-terminal region of this protein is similar to the C-terminal SlyD protein and to the N-terminal RcnA protein .
+Comparison with the crystal structure of the AphA protein from Vibrio cholerae suggests that the amino-terminal of YqjI contains the WHTH motif and that in the C-terminal domain is located the ligand-binding domain for oligomerization .
+YqjI has been observed to be a possible hexamer .
+MazF exhibits ribonuclease activity toward single stranded RNA regions of sequence ACA , and the resulting degradation of cellular mRNA causes global translation inhibition .
+The antitoxin , MazE , is subject to degradation by the ClpAP protease complex and exhibits a short ( 30 minute ) half life , whereas the toxin , MazF , is much more stable .
+Overproduction of MazE has no effect in the absence of MazF .
+MazE and MazF comigrate during native gel electrophoresis .
+It is proposed that the MazE monomer is less stably folded than the homodimer and that dimerization and associated structural changes may have an important role in protein activity .
+The MazE N-terminus is responsible for the DNA-binding activity .
+The MazE-DNA interaction has been characterized , and the structure of the DNA-binding domain is discussed .
+Dromedary antibodies that recognize MazE have been generated .
+what is it ?
+MazF is a toxin that is counteracted by the MazE antitoxin .
+Review : .
+YafQ and DinJ form a stable complex which can bind to the dinJ-yafQ palindrome upstream of the translation start site .
+However , biofilm-formation is affected via expression of the TabA protein .
+Persister formation depends on degradation of the antitoxins by the Lon-protease .
+A crystal structure of the DinJ-YafQ complex has been resolved at 1.8 Å .
+In in vitro experiments , ComR binds to a 60 bp promotor region upstream of the comC gene but is released in the presence of copper , silver or gold .
+Expression of comC is dramatically increased ( approx 270 fold ) in a comR negative strain upon exposure to 3mM copper .
+Based on microarray analysis , HypT upregulates genes involved in cysteine and methionine-biosynthesis and sulfur-metabolism upon hypochlorite stress .
+Cys150 is required for stability , Cys4 is important for oligomerization of HypT to dodecamers , and Cys4 oxidation may be a checkpoint in the activation process of HypT .
+MatA exerts a dual regulatory function on the choice of planktonic/sessile lifestyle and further supports the presence of antagonistic control of attachment and motility .
+MatA is tightly integrated into two separate regulatory circuits , H-NS-MatA-flhDC and RcsB-MatA-flhDC , both of which control expression of the flagellum .
+MatA interferes with bacterial motility and flagellar synthesis in meningitis-associated isolate IHE 3034 as well as K-12 strains of Escherichia coli .
+During the post-exponential growth phase , this regulator is an abundant protein in the genome , with about 21,500 molecules per cell .
+FliZ interferes with binding within ?S-dependent promoters , can also discriminate vegetative promoters , and can recognize alternative ?S promoter-like sequences .
+The DNA-binding N-terminal domains of recombinases and various phage integrases also have characteristics similar to the DNA-binding domain of this regulator .
+FliZ is an inhibitor of curli expression by reducing the expression of MlrA , YdaM , and YciR .
+FliZ interferes with the activity of ?S during the post-exponential phase .
+An exhaustive search of the Escherichia coli genome found a single motif for the YehT transcriptional regulator , located upstream of the yjiY gene ; therefore , it seems to be the only target regulated by the YehU/YehT system .
+An adenine nucleotide in front of M1 and hence M2 seems to be part of the DNA-binding motif .
+The YehU/YehT two-component system is one of the most widespread in bacteria and is also found in several human and plant pathogens .
+Activation of the YehU/YehT signaling-cascade , which results in YjiY production , suppresses YpdA/YpdB-mediated yhjX induction , whereas activation of the YpdA/YpdB signaling-cascade , as well as inducing the synthesis of YhjX , promotes expression of yjiY .
+The transcriptional regulatory protein BasR is part of the two-component BasS/BasR signal-transduction-system .
+Phosphorylation of BasR increases the affinity for its specific DNA-binding sites , leading to the transcriptional expression of several genes involved in modification of lipopolysaccharide to prevent excessiveFe ( III ) binding .
+Activation of the BasSR two-component system by Fe3 + results in the post-translational inhibition of  FRAME : G7146-MONOMER LpxT  and a near total loss of 1-diphosphate lipid A from the cell surface .
+The antimicrobial peptide lactoferricin B , binds to BasR and inhibits its phosphorylation in vitro .
+BglJ is a positive DNA-binding transcriptional regulator of transport and utilization of the aromatic ?-glucosides arbutin and salicin .
+The expression of the gene bglJ induces the bglGFB operon via .
+unknown mechanisms .
+Currently , no experimental binding sites for this regulator have been reported in the literature .
+BglJ is a protein that belongs to the LuxR/UhpA-family of transcriptional regulators .
+Genomic SELEX analysis showed that RcdA can bind to the upstream regions of 27 genes .
+This indicates that a large number of genes must be regulated indirectly by these regulators .
+Another group of target genes includes membrane-associated stress response proteins ( CsgB , NanC , OmpA , PgaA , YbjJ , YehA , and YoeA ) and stress response cytoplasmic proteins ( Asr and YdeI ) , among others .
+RcdA exhibits strong cooperative DNA-binding and produces aggregates of RcdA-DNA complexes .
+According to the analysis performed by the curator , the consensus sequence has a length of 10 bp ( TTGTgtACAa ) .
+Although only one site was determined in a gel shift assay , it is possible that YfdH binds as a complex of flanking regions of the core sequence ( -65 to -50 ) .
+YpdB belongs to the LytTR response regulator ( RR ) of the two-component system that participates in the carbon control network and may participate in nutrient scavenging before entry into stationary phase .
+YpdB binds to two direct repeats of the motif GGCATTTCAT , separated by an 11-bp spacer , in the yhjX promoter .
+YpdB is required for biofilm-formation , and it is induced by VOCs .
+The expression of hipA was severely reduced in the ypdB knockout , which suggests that the ypdB gene product might function as an upstream activator or transcription factor for hipA expression .
+Both the pgrR and ycjY promoters are recognized by RpoH ( ?32 ) and RpoE ( ?24 ) , both of which are involved in the heat shock response , and by FecI ( ?19 ) , which is involved in the response to extracytoplasmic stimuli .
+These targets were identified by Genomic SELEX analysis and include genes related to membrane formation and function : leuL , leuO , pheP , ycjY , pgrR , yedS , xapR , yfgF , yfgG , rfaL , and rfaS .
+PuuR is a transcription repressor that regulates transcription of several genes and operons involved in putrescine utilization and transport .
+Nemoto et al. showed that this regulator binds to four target sites in the divergent region located between the operons puuA and puuDR .
+The transcription of the puu genes occurs when putrescine interacts with PuuR ; this effect changes the conformation of PuuR , and its regulator dissociates from the binding sites .
+When the level of putrescine decreases in the cell , PuuR can repress the transcription of puu genes .
+RclR is activated by N-chlorotaurine , and that activation may involve formation of one disulfide bond .
+Cys-21 and Cys-89 are important in the activation of RclR in vivo .
+Oxidation of both cysteines leads to strong , highly specific activation of expression of genes required for survival under RCS stress .
+The His residues are involved in preventing DNA-binding when RclR levels are reduced .
+The MraZ protein is highly conserved in bacteria , and MraW is more universal .
+A mraZ null mutation has been generated .
+Based on a comparison of a stationary-phase mraZ null mutant cells and WT cells , it was shown that 2 % of the genes in the genome are differentially regulated .
+On the other hand , in the group B spacers , the direct repeat GCGT was identified upstream of the tdcF , yfgM , and ynfG genes while the palindromic GCGT ( Nn ) ACGC sequence was found in the fliZ gene .
+The highest level of SutR binding was found in the spacer in the ydcO-sutR region .
